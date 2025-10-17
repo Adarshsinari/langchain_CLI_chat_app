@@ -1,0 +1,4 @@
+steps:
+1) python -m virtualenv env
+2) env/scripts/activate
+3) pip freeze > requirements.txt
