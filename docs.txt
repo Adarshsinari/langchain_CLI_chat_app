@@ -1,4 +1,7 @@
 steps:
 1) python -m virtualenv env
 2) env/scripts/activate
-3) pip freeze > requirements.txt
+3) pip install -r requirements.txt
+4) pip freeze > requirements.txt
+5) Update your OpenAI API(OAI_KEY) key in secret.py file.
+6) Update your SERP API key(SERP_API_KEY) in secret.py file.
