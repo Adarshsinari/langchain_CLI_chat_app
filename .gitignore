@@ -3,3 +3,6 @@ __pycache__/
 
 # --- Virtual environment ---
 env/
+
+# --- Environment / secret files ---
+secret.py
